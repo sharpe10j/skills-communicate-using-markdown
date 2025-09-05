@@ -1,2 +1,1 @@
-# 1
-I added a H1 header to this file by typing a # followed by a space. I can have from 1 to 6 #'s to designate the size of my header
+1
