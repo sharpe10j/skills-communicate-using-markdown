@@ -10,7 +10,10 @@
 
 
 
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 
@@ -63,6 +66,7 @@
 
 
 This is the bvottom of the pafe
+
 
 
 
